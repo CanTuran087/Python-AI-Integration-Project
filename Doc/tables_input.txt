@@ -1,0 +1,4 @@
+select table_name as tablename,
+STRING_AGG(column_name, ',' ORDER BY column_name) AS fields
+from information_schema.columns
+GROUP BY table_name;

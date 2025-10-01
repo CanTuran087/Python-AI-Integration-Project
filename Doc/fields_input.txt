@@ -1,0 +1,4 @@
+select table_name as tablename,
+column_name AS fields,
+trim(data_type) as datatype
+from information_schema.columns;

@@ -1,0 +1,30 @@
+{
+    "sql_query": "SELECT * FROM table1;",
+    "result": [
+        {
+            "field001": "9999",
+            "field002": "0001",
+            "field003": "93939393",
+            "field004": 0,
+            "field005": "user9090",
+            "field006": "2025-10-12"
+        },
+        {
+            "field001": "9999",
+            "field002": "0001",
+            "field003": "456",
+            "field004": 0,
+            "field005": "user9190",
+            "field006": "2025-10-12"
+        },
+        {
+            "field001": "9999",
+            "field002": "0001",
+            "field003": "5667",
+            "field004": 0,
+            "field005": "user9290",
+            "field006": "2025-10-12"
+        }
+    ],
+    "gpt_explanation": "SQL Query"
+}

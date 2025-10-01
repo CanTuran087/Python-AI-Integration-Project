@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "table name": "table1",
+            "fields name": "field1",
+            "field description": "Desc1",
+            "data type": "varchar"
+        },
+        {
+            "table name": "table1",
+            "fields name": "field2",
+            "field description": "Desc2",
+            "data type": "varchar"
+        },
+        {
+            "table name": "table1",
+            "fields name": "field3",
+            "field description": "Desc3",
+            "data type": "varchar"
+        },
+        {
+            "table name": "table1",
+            "fields name": "field4",
+            "field description": "Desc4",
+            "data type": "integer"
+        }
+    ]
+}
